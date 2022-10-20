@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+output {
+
+    display:flex;
+    font-size: 3rem;
+    background-color:darkcyan;
+    color: white;
+    margin: 0.5em;
+    border-radius: 25px;
+    padding: 1em;
+}
