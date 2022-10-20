@@ -1,10 +1,10 @@
-body {
+/*#chile-clock {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-output {
+#chile-date, #chile-time {
 
     display:flex;
     font-size: 3rem;
